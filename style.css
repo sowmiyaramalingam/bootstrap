@@ -1,0 +1,108 @@
+*{
+   font-family: Lucida Handwriting;
+}
+.style{
+   font-size: 80px;
+font family: Marker Felt, fantasy;
+font-weight: 600
+}
+.text-center{
+   padding: 50px;
+}
+img{
+   border-radius: 15px;
+  background: #f6d3e3;
+  padding: 10px;
+}
+h3{
+   font-size:70px;
+}
+.special_para{
+   color:#081361;
+   font-family:monherat;
+   font-size: 100px;
+   background-color:#e3f2fd;; 
+   padding: 30px;
+}
+.sample{
+   font-family:monherat ;
+   text-align: center;
+   background-color:#f6d3e3;
+   font-size:20px;
+   padding: 30px;*/
+}
+.three{
+   font-size: 25px;
+}
+
+a{
+   color: #003366;
+   text-decoration-line: none;
+}
+footer{
+   background-blend-mode: luminosity;
+}
+hr{
+   border-bottom-style: solid;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*{
+   font-family: monherrat;
+}
+h1{
+    background-color:#f6d3e3;
+   padding: 30px;
+}
+ h1 li{ 
+   display: inline-table;
+   margin: 50px;
+  
+}   
+form{
+   margin-left: 40%
+}
+h2{
+ font-size:100px;
+}
+h2 li{
+   padding: 10px;
+   display: inline;
+}
+h3{
+   padding: 50px;
+}
+h3  li{
+   padding: 10px;
+   display: inline;
+   font-size: 100px;
+}
+h4{
+   font-family: moherrat;
+}
+h4 li{
+   font-size: 50px;
+}
+footer{
+   font-size: 25px;
+}
+.sample{
+   text-align: center;
+   background-color:#f6d3e3;
+   font-size:60px;
+   padding: 30px;*/
+}
+
